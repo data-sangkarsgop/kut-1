@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://data-sangkarsgop.github.io/kut-1/sitemap.xml
